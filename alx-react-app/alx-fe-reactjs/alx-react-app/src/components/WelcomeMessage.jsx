@@ -8,4 +8,6 @@ function WelcomeMessage() {
     );
 }
 
-export default WelcomeMessage;
+export default 
+WelcomeMessage;
+EOF
